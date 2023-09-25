@@ -1,2 +1,2 @@
-# ext.conhecimento_mineracaodedados
-Atividade solicitadas de ML
+# atividade_mineracao_dados
+Atividades solicitadas de ML
